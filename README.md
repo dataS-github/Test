@@ -1,2 +1,2 @@
 # Test
-Create with edukation goals. My first experience in ML
+Create with education goals. My first experience in ML
